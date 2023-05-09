@@ -3,6 +3,7 @@ My First App in Swift
 
 Hello, this is my first App in Swift, the App can be better but with this base you can have fun changing colors and sizes and other things.
 
-Im open to opinios of my code, redaction and tips, because im new in the programation world and im looking to be a great programmer.
+the API that i use, in free trial, have a forecast of 3 days but with a paid subscription the forecast is of 7 days.
+
 
 thanks for read :)
